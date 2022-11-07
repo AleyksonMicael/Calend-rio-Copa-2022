@@ -1,7 +1,19 @@
-<div align="center">
 # Calend-rio-Copa-2022
- </div>
+
+<p>proketo realizado no evento NWL da RocketSeat para treinar meus conhecimentos em FrontEnd</p>
 
 <div align="center">
 <img src="./assets/Captura de tela 2022-11-07 014735.jpg" alt="">
 </div>
+
+## Gif do projeto
+
+<div align="center">
+<img src="./assets/ezgif.com-gif-maker.gif" alt="">
+</div>
+
+## Linguagens Utilizadas
+
+* Html 
+* CSS 
+* JavaScript
