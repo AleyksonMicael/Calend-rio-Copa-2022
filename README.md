@@ -1,6 +1,6 @@
-# Calend-rio-Copa-2022
+# Calendario-Copa-2022
 
-<p>proketo realizado no evento NWL da RocketSeat para treinar meus conhecimentos em FrontEnd</p>
+<p>projeto realizado no evento NWL da RocketSeat para treinar meus conhecimentos em FrontEnd</p>
 
 <div align="center">
 <img src="./assets/Captura de tela 2022-11-07 014735.jpg" alt="">
