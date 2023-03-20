@@ -3,7 +3,7 @@
 <p>Projeto realizado em uma imersão da RocketSeat "Nwl-copa-brasil"</p>
 
 <div align="center">
-<img src="" alt="">
+<img src="./assets/ezgif.com-gif-maker.gif" alt="">
 </div>
 
 ## Gif do projeto
