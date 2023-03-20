@@ -1,15 +1,15 @@
 # Calendario-Copa-2022
 
-<p>projeto realizado no evento NWL da RocketSeat para treinar meus conhecimentos em FrontEnd</p>
+<p>Projeto realizado no curso da Alura "javaScrip: Manipulando o DOM"</p>
 
 <div align="center">
-<img src="./assets/Captura de tela 2022-11-07 014735.jpg" alt="">
+<img src="" alt="">
 </div>
 
 ## Gif do projeto
 
 <div align="center">
-<img src="./assets/ezgif.com-gif-maker.gif" alt="">
+<img src="" alt="">
 </div>
 
 ## Linguagens Utilizadas
