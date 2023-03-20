@@ -1,6 +1,6 @@
 # Calendario-Copa-2022
 
-<p>Projeto realizado em uma imersão da RocketSeat "Nwl-copa-brasil"</p>
+<p>Projeto realizado em uma imersão da RocketSeat "Nlw-copa-brasil"</p>
 
 <div align="center">
 <img src="./assets/Captura de tela 2022-11-07 014735.jpg" alt="">
