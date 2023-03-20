@@ -1,6 +1,6 @@
 # Calendario-Copa-2022
 
-<p>Projeto realizado no curso da Alura "javaScrip: Manipulando o DOM"</p>
+<p>Projeto realizado em uma imersão da RocketSeat "Nwl-copa-brasil"</p>
 
 <div align="center">
 <img src="" alt="">
